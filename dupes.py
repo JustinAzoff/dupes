@@ -3,10 +3,10 @@
 dupes.py
 Find duplicate files
 
- Copyright 2007 Justin Azoff
+ Copyright 2007-2014 Justin Azoff
 
   License:
-      GPL
+      MIT
 """
 
 import os
